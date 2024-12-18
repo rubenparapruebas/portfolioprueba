@@ -4,4 +4,5 @@ author: "Ruben"
 email: "rubenparapruebas@gmail.com"
 baseurl: ""
 url: "https://rubenparapruebas.github.io"
-theme: minima # Tema básico que viene con Jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+
