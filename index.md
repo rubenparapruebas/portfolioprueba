@@ -8,3 +8,4 @@ Este es un proyecto para aprender a usar Jekyll en GitHub Pages.
 
 - [Sobre mí](about.md)
 - [Contacto](contact.md)
+- [Aplicaciones](applications.md)
